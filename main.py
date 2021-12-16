@@ -7,7 +7,6 @@ sender = 'vihangawork1@gmail.com'
 receiver = 'vihangamd4@gmail.com'
 
 subject = "test1"
-
 contents = """bla bla 
 bla
 """
